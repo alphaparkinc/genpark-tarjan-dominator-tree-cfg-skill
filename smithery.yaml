@@ -1,0 +1,6 @@
+name: genpark-tarjan-dominator-tree-cfg-skill
+version: 1.0.0
+description: Dominator tree construction and immediate dominator calculation over directed control-flow graphs
+command: python
+args:
+  - mcp_server.py
